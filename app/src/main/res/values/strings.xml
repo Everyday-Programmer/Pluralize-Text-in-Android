@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pluralize Text</string>
+
+    <plurals name="pluralize">
+        <item quantity="one">%d Unit</item>
+        <item quantity="other">%d Units</item>
+    </plurals>
+</resources>
